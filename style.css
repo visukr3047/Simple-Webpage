@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+main{
+    background-color: gray;
+    width:100vw;
+}
+h1{
+    text-align:center;
+}
+img{
+    width:20vw;
+    margin-left:5rem;
+    padding-bottom:1.5rem;
+}
+.box{
+    width:50vw;
+    float:right;
+    margin-top:4rem;
+}
+
+
+footer{
+    width:100vw;
+    background-color: black;
+    color:white;
+    padding:1.8rem;
+    
+}
